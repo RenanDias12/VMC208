@@ -14,6 +14,7 @@ O Projeto funciona com a seguinte sixtaxe:
 >Exemplos de comandos:
 
 '''
+
 sumc var1 var2 4
 
 sumc var2 var3 24
@@ -37,4 +38,5 @@ mulv var0 var0 var0
 mulv var5 var5 var5 
 
 mulv var5 var5 var5
+
 '''
