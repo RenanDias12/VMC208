@@ -3,6 +3,7 @@
 Projeto feito para disciplina de Arquitetura de Computadores, não é Case-sensitive e além dos comandos que serão apresentados também suporta o comando 'EXIT' para finalizar a execução.
 
 O Projeto funciona com a seguinte sixtaxe:
+
 'Operação' 'Variavel destino' 'Variave l origem1' 'Variavel origem 2'/'Constante'
 
 >Operações: SUMC, MULC, SUMV, MULV, AND, OR.
