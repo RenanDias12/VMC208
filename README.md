@@ -10,6 +10,7 @@ Variaveis: VAR[0-8].
 Constantes: Suporta até 5 bits. 
 
 Exemplos de comandos:
+
 sumc var1 var2 4
 
 sumc var2 var3 24
