@@ -4,7 +4,7 @@ Projeto feito para disciplina de Arquitetura de Computadores, não é Case-sensi
 
 O Projeto funciona com a seguinte sixtaxe:
 
-'Operação' 'Variavel destino' 'Variave l origem1' 'Variavel origem 2'/'Constante'
+'Operação' 'Variavel destino' 'Variavel origem1' 'Variavel origem 2'/'Constante'
 
 >Operações: SUMC, MULC, SUMV, MULV, AND, OR.
 
