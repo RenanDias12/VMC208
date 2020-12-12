@@ -16,6 +16,6 @@ if __name__ == "__main__":
             comands.pop()
             operation = operations.Operations(comands)
             if operation.decode() == 0:
-                operation.execute()
+                operation.cache()
         else:
             break
