@@ -1,6 +1,20 @@
+<p align="center">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RenanDias12/virtual_machine?color=%2304D361">
+ 
+  <a href="https://github.comRenanDias12/virtual_machine/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RenanDias12/virtual_machine?color=%2304D361">
+  </a>   
+
+</p>
+
 # Máquina Virtual
 
-Projeto feito para disciplina de Arquitetura de Computadores, não é Case-sensitive e além dos comandos que serão apresentados também suporta o comando 'EXIT' para finalizar a execução.
+## 💻 Project Description
+
+Esse projeto tem o intuito de simular um compilador de código.
+
+Esse simulador não é Case-sensitive e além dos comandos que serão apresentados também suporta o comando 'EXIT' para finalizar a execução.
 
 O Projeto funciona com a seguinte sixtaxe:
 
@@ -27,3 +41,6 @@ mulv var0 var0 var0
 mulv var5 var5 var5 
 mulv var5 var5 var5
 ```
+## 👨🏻‍💻 Autor
+
+Renan Dias ([Entre em contato!](https://www.linkedin.com/in/renan-dias-faria-54a599190/))
